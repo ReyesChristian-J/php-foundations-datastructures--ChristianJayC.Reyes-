@@ -26,6 +26,9 @@ Or put the files in a web server document root and open `main.php` in a browser;
 
 
 ## Notes
-- The BST is case-insensitive for insertion/searching.
+- The BST is case-insensitive for insertion/searching.[Uploading bst.php…]()
+
 - Duplicated titles are ignored by the BST insertion.
+
 - 
+
